@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Thinking May Not Be What We Think It Is](docs/poem-1225.mp3)
 - [Synchronize Your Workouts With The Beats Of Songs And Speed Up The Tempo](docs/poem-1224.mp3)
 - [The New Universal Declaration Of Human Rights](docs/poem-1223.mp3)
 - [Helping Humanity Hurry Along](docs/poem-1222.mp3)
