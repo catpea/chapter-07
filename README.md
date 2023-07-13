@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Power Of Serenity; Or How Humanity’s Greatest Accomplishment Was Rooted In Peace Of Mind](docs/poem-1228.mp3)
 - [Whale Fall; Or, The Betrayal Of Standardized Education](docs/poem-1227.mp3)
 - [Of Serenity, And Courage - It Is Not Just The Narrated Books](docs/poem-1226.mp3)
 - [Thinking May Not Be What We Think It Is](docs/poem-1225.mp3)
