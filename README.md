@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Incurious: When Schools Stand In The Way Of Education](docs/poem-1232.mp3)
 - [UFO And UAP Total Disclosure; Or, The Tragedy Of Fake Education](docs/poem-1231.mp3)
 - [The Great Weight-loss Adventure](docs/poem-1230.mp3)
 - [Take To Adventure, Become 40 Years Younger, And Wallop The Oodles Out Of Your Whippersnapper Self](docs/poem-1229.mp3)
