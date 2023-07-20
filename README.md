@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Answers Are Found In The Quest For Greatness, Not In The Search For Meaning](docs/poem-1235.mp3)
 - [Self Education And Life Changing Narrated Non-Fiction Books At The Library](docs/poem-1234.mp3)
 - [The Betrayal Of Subject Divisions, And Why Real Education Is Replaced With Memorization](docs/poem-1233.mp3)
 - [Incurious: When Schools Stand In The Way Of Education](docs/poem-1232.mp3)
