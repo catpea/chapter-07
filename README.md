@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Despite What You Are Told, Cats Would Successfully Run The World](docs/poem-1238.mp3)
 - [The Really Real Truth About Great Adventure](docs/poem-1237.mp3)
 - [Growing Stronger; Or, Real Education Is Not Just About Learning For Real](docs/poem-1236.mp3)
 - [Answers Are Found In The Quest For Greatness, Not In The Search For Meaning](docs/poem-1235.mp3)
