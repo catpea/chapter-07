@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Thinking Creatures](docs/poem-1240.mp3)
 - [A Glance At What Keeps Humanity Divided](docs/poem-1239.mp3)
 - [Despite What You Are Told, Cats Would Successfully Run The World](docs/poem-1238.mp3)
 - [The Really Real Truth About Great Adventure](docs/poem-1237.mp3)
