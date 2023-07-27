@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Weird Dancing; Or, Music Energy For Fitness](docs/poem-1242.mp3)
 - [Your Intellectual Inheritance; Or, How Wisdom Cradles And You Just Kind Of Use It By Subtle Analogy](docs/poem-1241.mp3)
 - [Thinking Creatures](docs/poem-1240.mp3)
 - [A Glance At What Keeps Humanity Divided](docs/poem-1239.mp3)
