@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Beginning Fitness; It Is Easy, Because Fitness Is Your Friend](docs/poem-1244.mp3)
 - [Outlive Yourself; Or, The Skinny, On Where Fitness Fits](docs/poem-1243.mp3)
 - [Weird Dancing; Or, Music Energy For Fitness](docs/poem-1242.mp3)
 - [Your Intellectual Inheritance; Or, How Wisdom Cradles And You Just Kind Of Use It By Subtle Analogy](docs/poem-1241.mp3)
