@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Clarity Of Thought, And The Ancient Quest For Knowledge](docs/poem-1247.mp3)
 - [Intellectual Inheritance And Independence](docs/poem-1246.mp3)
 - [Standardized Anything Is Standardized Nothing](docs/poem-1245.mp3)
 - [Beginning Fitness; It Is Easy, Because Fitness Is Your Friend](docs/poem-1244.mp3)
