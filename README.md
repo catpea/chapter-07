@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Fitness Advice For The Rest Of Us; The Beautiful, Magnificent, And Deeply Intellectual Fhatty Fhattertons](docs/poem-1250.mp3)
 - [The High School Conspiracy; Or, Don’t Let Teachers Trick You Into Thinking That You Are Dumb](docs/poem-1249.mp3)
 - [Towards Real Education; Or, A School Is Not A Factory](docs/poem-1248.mp3)
 - [Clarity Of Thought, And The Ancient Quest For Knowledge](docs/poem-1247.mp3)
