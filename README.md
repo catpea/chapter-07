@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Welcome To Planet Earth - A Word Of Caution](docs/poem-1252.mp3)
 - [Just Dancing; Or, A Simple And Friendly Formula For Staying Young](docs/poem-1251.mp3)
 - [Fitness Advice For The Rest Of Us; The Beautiful, Magnificent, And Deeply Intellectual Fhatty Fhattertons](docs/poem-1250.mp3)
 - [The High School Conspiracy; Or, Don’t Let Teachers Trick You Into Thinking That You Are Dumb](docs/poem-1249.mp3)
