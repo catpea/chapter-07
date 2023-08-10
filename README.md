@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [States Of Mind; Or, On Helping Our Minds Grow](docs/poem-1256.mp3)
 - [You Were Super Smart All Along; Or, How Fake Teachers Sold The World](docs/poem-1255.mp3)
 - [Where To Start In Life](docs/poem-1254.mp3)
 - [The Terrible Curse Of The Mitochondria](docs/poem-1253.mp3)
