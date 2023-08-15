@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [How To Become A Great Being](docs/poem-1261.mp3)
 - [A Trail Towards Real Education](docs/poem-1260.mp3)
 - [The Short Note About Fixing Education](docs/poem-1259.mp3)
 - [The First Real Night In The Woods Is Not As Bad As It Seems](docs/poem-1258.mp3)
