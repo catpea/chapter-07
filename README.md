@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Knowledge Artists; Or What Do Science Popularizers Do?](docs/poem-1263.mp3)
 - [Good Art Changes Lives](docs/poem-1262.mp3)
 - [How To Become A Great Being](docs/poem-1261.mp3)
 - [A Trail Towards Real Education](docs/poem-1260.mp3)
