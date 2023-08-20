@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Towards Growing All The Way Up And Becoming A Great Being](docs/poem-1266.mp3)
 - [The Graduation Is A Lie](docs/poem-1265.mp3)
 - [Introduction To Color; Or, An Easy Path Towards A Masterful Mastery Of Mixing Colors](docs/poem-1264.mp3)
 - [Knowledge Artists; Or What Do Science Popularizers Do?](docs/poem-1263.mp3)
