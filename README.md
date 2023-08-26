@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Half Way Up Mount Katahdin; Or, Use Your Superpower Of Endurance](docs/poem-1272.mp3)
 - [A Yellow Bellied Buttercup’s Guide To Camping In Spicy Or Moody Weather](docs/poem-1271.mp3)
 - [A Tiny Glance At Effective Education](docs/poem-1270.mp3)
 - [What Is Freedom Of Will?](docs/poem-1269.mp3)
