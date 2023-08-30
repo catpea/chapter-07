@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Try Not To Rest At The Gym](docs/poem-1276.mp3)
 - [Of The Sunrise And The Sunset; Or, A Slow And Tiny Step Towards Bicycling And Camping](docs/poem-1275.mp3)
 - [Get Up! The Commencement Address Is As Fake As Your Education, And You Still Need To Learn For Real](docs/poem-1274.mp3)
 - [Rise, Don't Memorize](docs/poem-1273.mp3)
