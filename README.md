@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Don’t Jump Hoops, Don’t Just Go To College, Don’t Just Work](docs/poem-1278.mp3)
 - [Is Bicycling Hard? Or, A Little Story About How I Got Back On The Bicycle](docs/poem-1277.mp3)
 - [Try Not To Rest At The Gym](docs/poem-1276.mp3)
 - [Of The Sunrise And The Sunset; Or, A Slow And Tiny Step Towards Bicycling And Camping](docs/poem-1275.mp3)
