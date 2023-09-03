@@ -9,7 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
-- [The Uncoking Of The Pipeline Of Wisdom; Or; Beautiful Adventure And Cheerful Storytellers vs. The Fake Education Ecosystem](docs/poem-1280.mp3)
+- [The Uncorking Of The Pipeline Of Wisdom; Or; Beautiful Adventure And Cheerful Storytellers vs. The Fake Education Ecosystem](docs/poem-1280.mp3)
 - [Can Standardized Education Become Effective?](docs/poem-1279.mp3)
 - [Don’t Jump Hoops, Don’t Just Go To College, Don’t Just Work](docs/poem-1278.mp3)
 - [Is Bicycling Hard? Or, A Little Story About How I Got Back On The Bicycle](docs/poem-1277.mp3)
