@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Do Not Be Small And Useful](docs/poem-1283.mp3)
 - [We Are Each Unique, But Not Different](docs/poem-1282.mp3)
 - [Trust In Great Wisdom](docs/poem-1281.mp3)
 - [The Uncorking Of The Pipeline Of Wisdom; Or; Beautiful Adventure And Cheerful Storytellers vs. The Fake Education Ecosystem](docs/poem-1280.mp3)
