@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Allegory Of The Cave](docs/poem-1285.mp3)
 - [What Is Wisdom?](docs/poem-1284.mp3)
 - [Do Not Be Small And Useful](docs/poem-1283.mp3)
 - [We Are Each Unique, But Not Different](docs/poem-1282.mp3)
