@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [A Note On How To Simply And Effortlessly Increase Your Lifting Weight](docs/poem-1286.mp3)
 - [The Allegory Of The Cave](docs/poem-1285.mp3)
 - [What Is Wisdom?](docs/poem-1284.mp3)
 - [Do Not Be Small And Useful](docs/poem-1283.mp3)
