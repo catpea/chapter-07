@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [How To Protect Your Mind From Standardized Education](docs/poem-1288.mp3)
 - [A Universe Must Expand; Or, Self Directed Education And Your Personal Constellation Of Curiosities](docs/poem-1287.mp3)
 - [A Note On How To Simply And Effortlessly Increase Your Lifting Weight](docs/poem-1286.mp3)
 - [The Allegory Of The Cave](docs/poem-1285.mp3)
