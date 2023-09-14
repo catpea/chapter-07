@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Standardized Education Has Become A Scam; Don’t Let Teachers Trick You Into Cramming Or Memorization](docs/poem-1291.mp3)
 - [There Are Too Many Problems Outside Of Self Education](docs/poem-1290.mp3)
 - [Towards Deep And Intricate Masterpieces Of Art; Or, A Super Tiny Note About Art Collage](docs/poem-1289.mp3)
 - [How To Protect Your Mind From Standardized Education](docs/poem-1288.mp3)
