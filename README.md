@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [To Resume Where The Great Beings Leave Off](docs/poem-1295.mp3)
 - [Authentic Education And The Resulting Culture Of Greatness](docs/poem-1294.mp3)
 - [The Way Of The Plumpkin; Or, On Communicating With Your Body, And Slowly Getting Into Marvelous Shape](docs/poem-1293.mp3)
 - [How Parasites Ate School; And On Hiking, Camping And Listening To Great Books](docs/poem-1292.mp3)
