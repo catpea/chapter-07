@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Childhood’s End; On The Subject Of Post Trail Depression](docs/poem-1296.mp3)
 - [To Resume Where The Great Beings Leave Off](docs/poem-1295.mp3)
 - [Authentic Education And The Resulting Culture Of Greatness](docs/poem-1294.mp3)
 - [The Way Of The Plumpkin; Or, On Communicating With Your Body, And Slowly Getting Into Marvelous Shape](docs/poem-1293.mp3)
