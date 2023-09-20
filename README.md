@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Accepting Responsibility For Your Own Fitness](docs/poem-1297.mp3)
 - [Childhood’s End; On The Subject Of Post Trail Depression](docs/poem-1296.mp3)
 - [To Resume Where The Great Beings Leave Off](docs/poem-1295.mp3)
 - [Authentic Education And The Resulting Culture Of Greatness](docs/poem-1294.mp3)
