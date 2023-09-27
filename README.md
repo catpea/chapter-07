@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Little Adventures Go A Long Way](docs/poem-1304.mp3)
 - [The Mother Of All Sciences](docs/poem-1303.mp3)
 - [Philosophy Is For You](docs/poem-1302.mp3)
 - [Body, Mind, And Humankind](docs/poem-1301.mp3)
