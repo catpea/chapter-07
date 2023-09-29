@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [A Philosopher’s Walk](docs/poem-1306.mp3)
 - [Thrice Or Quince, Because You Are More Than Just A Human](docs/poem-1305.mp3)
 - [Little Adventures Go A Long Way](docs/poem-1304.mp3)
 - [The Mother Of All Sciences](docs/poem-1303.mp3)
