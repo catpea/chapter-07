@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Until You Become A Great Being; Or, Younger Generations Deserve Explanations](docs/poem-1308.mp3)
 - [The Wise Mind](docs/poem-1307.mp3)
 - [A Philosopher’s Walk](docs/poem-1306.mp3)
 - [Thrice Or Quince, Because You Are More Than Just A Human](docs/poem-1305.mp3)
