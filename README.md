@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Avoid Standardized Education](docs/poem-1310.mp3)
 - [Bodybuilding Explained](docs/poem-1309.mp3)
 - [Until You Become A Great Being; Or, Younger Generations Deserve Explanations](docs/poem-1308.mp3)
 - [The Wise Mind](docs/poem-1307.mp3)
