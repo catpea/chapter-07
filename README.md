@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Question Of Freedom Of Will Is About Real Education](docs/poem-1312.mp3)
 - [Preventing Workout Injuries; Or, Cut Your Shoe Before It Cuts You](docs/poem-1311.mp3)
 - [Avoid Standardized Education](docs/poem-1310.mp3)
 - [Bodybuilding Explained](docs/poem-1309.mp3)
