@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [A Handsome Tail; Or, Evolution Made A Terrible Mistake And Everything Is At Stake](docs/poem-1313.mp3)
 - [The Question Of Freedom Of Will Is About Real Education](docs/poem-1312.mp3)
 - [Preventing Workout Injuries; Or, Cut Your Shoe Before It Cuts You](docs/poem-1311.mp3)
 - [Avoid Standardized Education](docs/poem-1310.mp3)
